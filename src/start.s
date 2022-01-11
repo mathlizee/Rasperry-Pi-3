@@ -1,5 +1,5 @@
 /*
- *  Author: Mathieu Lizee (mathieulizee1@gmail.com)
+ *  Author: Mathieu Lizee
  *
  *  Start up routine.
  *  Initialize the stack pointer and calls main().
