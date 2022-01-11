@@ -1,5 +1,5 @@
 /*
- *  Author: Mathieu Lizee (mathieulizee1@gmail.com)
+ *  Author: Mathieu Lizee
  *
  *  Main function.
  *  Called after memory and registers initialization.
