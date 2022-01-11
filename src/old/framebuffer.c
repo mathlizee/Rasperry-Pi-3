@@ -1,5 +1,5 @@
 /*
- *  Author: Mathieu Lizee (mathieulizee1@gmail.com)
+ *  Author: Mathieu Lizee
  *
  *  Header for the framebuffer.
  *  The framebuffer is a bitmap that is displayed on the screen.
