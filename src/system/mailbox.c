@@ -1,5 +1,5 @@
 /*
- *  Author: Mathieu Lizee (mathieulizee1@gmail.com)
+ *  Author: Mathieu Lizee
  *
  *  Source for the mailbox.
  *  The mailbox helps with communication between the CPU and the GPU.
