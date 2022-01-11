@@ -1,5 +1,5 @@
 /*
- *  Author: Mathieu Lizee (mathieulizee1@gmail.com)
+ *  Author: Mathieu Lizee
  *
  *  Header for the system timer.
  *  The sytem timer helps for time functionalities (waiting, timing, etc).
